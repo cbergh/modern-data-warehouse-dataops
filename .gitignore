@@ -722,7 +722,7 @@ fabric.properties
 /.idea/csv-editor.xml
 /.idea/misc.xml
 /.idea/modules.xml
-/.idea/observability-demo.iml
+/.idea/modern-data-warehouse-dataops.iml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
