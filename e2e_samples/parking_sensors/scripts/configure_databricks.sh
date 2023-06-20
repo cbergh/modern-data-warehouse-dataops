@@ -19,7 +19,7 @@
 set -o errexit
 set -o pipefail
 set -o nounset
-# set -o xtrace # For debugging
+set -o xtrace # For debugging
 
 # REQUIRED VARIABLES:
 #
@@ -43,7 +43,7 @@ wait_for_run () {
             exit 1
         else 
             echo "Waiting for run ${mount_run_id} to finish..."
-            sleep 1m
+            sleep 100
         fi
     done
 }
