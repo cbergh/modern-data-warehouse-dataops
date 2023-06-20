@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-chris",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db421f8f-b93e-4464-9ea1-4f12b9d05c62",
+		"tenantId": "f01c29db-2503-4700-959d-3bbe7fde9ab0"
+	}
+}
